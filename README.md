@@ -16,6 +16,7 @@ Dataset
 
 The project uses a CSV file (top 50 stock.csv) containing ticker symbols of the top 50 NSE-listed companies. These symbols are used to fetch live market data via the Yahoo Finance API.
 Sample Columns:
+
 •	Ticker: NSE ticker symbol of the company.
 
 Key Features
